@@ -1,10 +1,8 @@
 # Sudoku-Solver
 
 # DESCRIPTION
-This is a python program designed to generate any random sudoku board and solve it using recursion and a backtracking algorithm.
+These are python programs designed to generate any random or user-inputted sudoku board and solve it using recursion and a backtracking algorithm. 
 
-To run the solver simply run the random_solver.py file from IDLE or the command line.
+# Instructions
 
-#FOR USER-INPUTTED BOARD
-
-To run the game simply run the user_input_solver.py file from IDLE or the command line.
+Run either of the programs (user_input_solver.py or random_solver.py) depending on whether you want a random or user-inputted sudoku board in IDLE or Terminal.
