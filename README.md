@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-To run the game simply run the GUI.py file from IDLE or the command line.
+To run the game simply run the Solver.py file from IDLE or the command line.
